@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\tipqc\Desktop\pick-a-park_latest\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        revision="23.0.2"
+        sha1="474873dbfa700d3ff02c0b361729709ab151b696">
+        <dex dex="C:\Users\tipqc\Desktop\pick-a-park_latest\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_1a077ec847ae56738598ae4d5f3ed7dce99eb193\classes.dex" />
+    </item>
+
+</items>

@@ -1,0 +1,150 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\SHERWIN\\Desktop\\Android Studio\\SharedPark\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\398eeb64b575d51a1a57124d9f96dc9e\\res\\values-pa\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "329,438,645,777,909,1120,1334,1465,1598,1846,1969,2080,2280,2414,2625,2764,2945,3041,3137",
+                        "endColumns": "108,206,131,131,210,213,130,132,247,122,110,199,133,210,138,180,95,95,110",
+                        "endOffsets": "433,640,772,904,1115,1329,1460,1593,1841,1964,2075,2275,2409,2620,2759,2940,3036,3132,3243"
+                    },
+                    "to": {
+                        "startLines": "25,26,27,28,29,30,31,32,34,35,36,37,38,39,40,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2695,2804,3011,3143,3275,3486,3700,3831,4219,4467,4590,4701,4901,5035,5246,5385,5566,5662,5758",
+                        "endColumns": "108,206,131,131,210,213,130,132,247,122,110,199,133,210,138,180,95,95,110",
+                        "endOffsets": "2799,3006,3138,3270,3481,3695,3826,3959,4462,4585,4696,4896,5030,5241,5380,5561,5657,5753,5864"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\3a5d83d1a217fe3175afe7527b6c5636\\res\\values-pa\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "281,380",
+                        "endColumns": "98,93",
+                        "endOffsets": "375,469"
+                    },
+                    "to": {
+                        "startLines": "45,46",
+                        "startColumns": "4,4",
+                        "startOffsets": "5869,5968",
+                        "endColumns": "98,93",
+                        "endOffsets": "5963,6057"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-login-4.28.0.aar\\af0b1cce274808f4d3195050ee54b261\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,220,350,498,611,697,786,870,960,1049,1163,1277,1372,1467,1579,1710,1790,1876,2052,2147,2255,2370,2480",
+                        "endColumns": "164,129,147,112,85,88,83,89,88,113,113,94,94,111,130,79,85,175,94,107,114,109,164",
+                        "endOffsets": "215,345,493,606,692,781,865,955,1044,1158,1272,1367,1462,1574,1705,1785,1871,2047,2142,2250,2365,2475,2640"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,270,400,548,661,747,836,920,1010,1099,1213,1327,1422,1517,1629,1760,1840,1926,2102,2197,2305,2420,2530",
+                        "endColumns": "164,129,147,112,85,88,83,89,88,113,113,94,94,111,130,79,85,175,94,107,114,109,164",
+                        "endOffsets": "265,395,543,656,742,831,915,1005,1094,1208,1322,1417,1512,1624,1755,1835,1921,2097,2192,2300,2415,2525,2690"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.4.0.aar\\48aab52e4409c9dc8addee7939cc44ee\\res\\values-pa\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "331",
+                        "endColumns": "254",
+                        "endOffsets": "581"
+                    },
+                    "to": {
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "3964",
+                        "endColumns": "254",
+                        "endOffsets": "4214"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Backup\\SharedPark\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-pa\\values-pa.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-base-9.4.0.aar\\398eeb64b575d51a1a57124d9f96dc9e\\res\\values-pa\\values.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "329,438,645,777,909,1120,1334,1465,1598,1846,1969,2080,2280,2414,2625,2764,2945,3041,3137",
+                        "endColumns": "108,206,131,131,210,213,130,132,247,122,110,199,133,210,138,180,95,95,110",
+                        "endOffsets": "433,640,772,904,1115,1329,1460,1593,1841,1964,2075,2275,2409,2620,2759,2940,3036,3132,3243"
+                    },
+                    "to": {
+                        "startLines": "25,26,27,28,29,30,31,32,34,35,36,37,38,39,40,41,42,43,44",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "2695,2804,3011,3143,3275,3486,3700,3831,4219,4467,4590,4701,4901,5035,5246,5385,5566,5662,5758",
+                        "endColumns": "108,206,131,131,210,213,130,132,247,122,110,199,133,210,138,180,95,95,110",
+                        "endOffsets": "2799,3006,3138,3270,3481,3695,3826,3959,4462,4585,4696,4896,5030,5241,5380,5561,5657,5753,5864"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-places-9.4.0.aar\\3a5d83d1a217fe3175afe7527b6c5636\\res\\values-pa\\values.xml",
+                    "from": {
+                        "startLines": "4,5",
+                        "startColumns": "4,4",
+                        "startOffsets": "281,380",
+                        "endColumns": "98,93",
+                        "endOffsets": "375,469"
+                    },
+                    "to": {
+                        "startLines": "45,46",
+                        "startColumns": "4,4",
+                        "startOffsets": "5869,5968",
+                        "endColumns": "98,93",
+                        "endOffsets": "5963,6057"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\facebook-login-4.28.0.aar\\af0b1cce274808f4d3195050ee54b261\\res\\values-pa\\values-pa.xml",
+                    "from": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,220,350,498,611,697,786,870,960,1049,1163,1277,1372,1467,1579,1710,1790,1876,2052,2147,2255,2370,2480",
+                        "endColumns": "164,129,147,112,85,88,83,89,88,113,113,94,94,111,130,79,85,175,94,107,114,109,164",
+                        "endOffsets": "215,345,493,606,692,781,865,955,1044,1158,1272,1367,1462,1574,1705,1785,1871,2047,2142,2250,2365,2475,2640"
+                    },
+                    "to": {
+                        "startLines": "2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22,23,24",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "105,270,400,548,661,747,836,920,1010,1099,1213,1327,1422,1517,1629,1760,1840,1926,2102,2197,2305,2420,2530",
+                        "endColumns": "164,129,147,112,85,88,83,89,88,113,113,94,94,111,130,79,85,175,94,107,114,109,164",
+                        "endOffsets": "265,395,543,656,742,831,915,1005,1094,1208,1322,1417,1512,1624,1755,1835,1921,2097,2192,2300,2415,2525,2690"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\play-services-basement-9.4.0.aar\\48aab52e4409c9dc8addee7939cc44ee\\res\\values-pa\\values.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "331",
+                        "endColumns": "254",
+                        "endOffsets": "581"
+                    },
+                    "to": {
+                        "startLines": "33",
+                        "startColumns": "4",
+                        "startOffsets": "3964",
+                        "endColumns": "254",
+                        "endOffsets": "4214"
+                    }
+                }
+            ]
+        }
+    ]
+}

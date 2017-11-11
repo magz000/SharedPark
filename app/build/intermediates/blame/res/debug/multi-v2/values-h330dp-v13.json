@@ -1,0 +1,48 @@
+{
+    "logs": [
+        {
+            "outputFile": "D:\\Backup\\SharedPark\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h330dp-v13\\values-h330dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.0.2.aar\\dcad6cede8cf91fb07b8b06294a7d21b\\res\\values-h330dp\\values-h330dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "216",
+                        "endColumns": "69",
+                        "endOffsets": "281"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "69",
+                        "endOffsets": "120"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "C:\\Users\\SHERWIN\\Desktop\\Android Studio\\SharedPark\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-h330dp-v13\\values-h330dp-v13.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.0.2.aar\\dcad6cede8cf91fb07b8b06294a7d21b\\res\\values-h330dp\\values-h330dp.xml",
+                    "from": {
+                        "startLines": "4",
+                        "startColumns": "4",
+                        "startOffsets": "216",
+                        "endColumns": "69",
+                        "endOffsets": "281"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "69",
+                        "endOffsets": "120"
+                    }
+                }
+            ]
+        }
+    ]
+}

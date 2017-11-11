@@ -1,0 +1,106 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\SHERWIN\\Desktop\\Android Studio\\SharedPark\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\965928c3d62a22ddf6ede755a12022d9\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.0.0.aar\\cd4a9ebae4dcb058f8164f089980a6f5\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "685",
+                        "endLines": "15",
+                        "endColumns": "12",
+                        "endOffsets": "862"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.0.2.aar\\dcad6cede8cf91fb07b8b06294a7d21b\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "214,284,336,390,450,511",
+                        "endColumns": "69,51,53,59,60,59",
+                        "endOffsets": "279,331,385,445,506,566"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "328,398,450,504,564,625",
+                        "endColumns": "69,51,53,59,60,59",
+                        "endOffsets": "393,445,499,559,620,680"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Backup\\SharedPark\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-land\\values-land.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\965928c3d62a22ddf6ede755a12022d9\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2,3,4,5",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "55,125,189,260",
+                        "endColumns": "69,63,70,67",
+                        "endOffsets": "120,184,255,323"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\design-24.0.0.aar\\cd4a9ebae4dcb058f8164f089980a6f5\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "5",
+                        "endColumns": "12",
+                        "endOffsets": "232"
+                    },
+                    "to": {
+                        "startLines": "12",
+                        "startColumns": "4",
+                        "startOffsets": "685",
+                        "endLines": "15",
+                        "endColumns": "12",
+                        "endOffsets": "862"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.0.2.aar\\dcad6cede8cf91fb07b8b06294a7d21b\\res\\values-land\\values-land.xml",
+                    "from": {
+                        "startLines": "4,5,6,7,8,9",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "214,284,336,390,450,511",
+                        "endColumns": "69,51,53,59,60,59",
+                        "endOffsets": "279,331,385,445,506,566"
+                    },
+                    "to": {
+                        "startLines": "6,7,8,9,10,11",
+                        "startColumns": "4,4,4,4,4,4",
+                        "startOffsets": "328,398,450,504,564,625",
+                        "endColumns": "69,51,53,59,60,59",
+                        "endOffsets": "393,445,499,559,620,680"
+                    }
+                }
+            ]
+        }
+    ]
+}

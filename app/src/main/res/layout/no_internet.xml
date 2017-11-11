@@ -1,0 +1,51 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:visibility="gone"
+    android:id="@+id/nointernet"
+    android:background="#ffffff"
+    android:layout_height="match_parent">
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_margin="40dp"
+        android:layout_height="wrap_content">
+        <ImageView
+            android:layout_width="150dp"
+            android:contentDescription="@string/img_no_internet"
+            android:layout_height="150dp"
+            android:src="@drawable/image_no_internet"
+            android:id="@+id/imageView2"
+            android:tint="#cfd8dc"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_alignLeft="@+id/button"
+            android:layout_alignStart="@+id/button" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:textColor="@color/LightGray"
+            android:textSize="20sp"
+            android:text="No Internet Connection"
+            android:id="@+id/textView"
+            android:layout_below="@id/imageView2"
+            android:layout_centerHorizontal="true" />
+
+        <Button
+            android:background="@drawable/rounded_button_green"
+            android:layout_width="wrap_content"
+            android:padding="5dp"
+            android:layout_height="wrap_content"
+            android:layout_margin="10dp"
+            android:textSize="16dp"
+            android:minWidth="150dp"
+            android:text="TAP TO RETRY"
+            android:textColor="#fff"
+            android:id="@+id/button"
+            android:layout_gravity="bottom"
+            android:layout_below="@id/textView"
+            android:layout_centerHorizontal="true" />
+    </RelativeLayout>
+
+</LinearLayout>

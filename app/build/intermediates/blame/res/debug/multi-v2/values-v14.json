@@ -1,0 +1,128 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\SHERWIN\\Desktop\\Android Studio\\SharedPark\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.1.aar\\a09e79ebf5efa226d8a0f9be8fd9f7b4\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,428",
+                        "endLines": "8,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "423,855"
+                    },
+                    "to": {
+                        "startLines": "40,47",
+                        "startColumns": "4,4",
+                        "startOffsets": "2749,3122",
+                        "endLines": "46,55",
+                        "endColumns": "12,12",
+                        "endOffsets": "3117,3549"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\965928c3d62a22ddf6ede755a12022d9\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15,21,22,23,24,25,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895,1317,1437,1569,1689,1752,1906,1969",
+                        "endLines": "6,7,8,14,20,21,22,23,24,27,28,29",
+                        "endColumns": "12,70,82,12,12,119,131,119,62,12,62,131",
+                        "endOffsets": "326,397,480,890,1312,1432,1564,1684,1747,1901,1964,2096"
+                    },
+                    "to": {
+                        "startLines": "12,17,18,19,25,31,32,33,34,35,38,39",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "703,979,1050,1133,1543,1965,2085,2217,2337,2400,2554,2617",
+                        "endLines": "16,17,18,24,30,31,32,33,34,37,38,39",
+                        "endColumns": "12,70,82,12,12,119,131,119,62,12,62,131",
+                        "endOffsets": "974,1045,1128,1538,1960,2080,2212,2332,2395,2549,2612,2744"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHERWIN\\Desktop\\Android Studio\\SharedPark\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "227",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "879"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "698"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Backup\\SharedPark\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v14\\values-v14.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\core-0.8.6.1.aar\\a09e79ebf5efa226d8a0f9be8fd9f7b4\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,9",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,428",
+                        "endLines": "8,17",
+                        "endColumns": "12,12",
+                        "endOffsets": "423,855"
+                    },
+                    "to": {
+                        "startLines": "40,47",
+                        "startColumns": "4,4",
+                        "startOffsets": "2749,3122",
+                        "endLines": "46,55",
+                        "endColumns": "12,12",
+                        "endOffsets": "3117,3549"
+                    }
+                },
+                {
+                    "source": "D:\\Backup\\SharedPark\\app\\src\\main\\res\\values-v14\\styles.xml",
+                    "from": {
+                        "startLines": "7",
+                        "startColumns": "4",
+                        "startOffsets": "227",
+                        "endLines": "16",
+                        "endColumns": "12",
+                        "endOffsets": "879"
+                    },
+                    "to": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endLines": "11",
+                        "endColumns": "12",
+                        "endOffsets": "698"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\965928c3d62a22ddf6ede755a12022d9\\res\\values-v14\\values-v14.xml",
+                    "from": {
+                        "startLines": "2,7,8,9,15,21,22,23,24,25,28,29",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "55,331,402,485,895,1317,1437,1569,1689,1752,1906,1969",
+                        "endLines": "6,7,8,14,20,21,22,23,24,27,28,29",
+                        "endColumns": "12,70,82,12,12,119,131,119,62,12,62,131",
+                        "endOffsets": "326,397,480,890,1312,1432,1564,1684,1747,1901,1964,2096"
+                    },
+                    "to": {
+                        "startLines": "12,17,18,19,25,31,32,33,34,35,38,39",
+                        "startColumns": "4,4,4,4,4,4,4,4,4,4,4,4",
+                        "startOffsets": "703,979,1050,1133,1543,1965,2085,2217,2337,2400,2554,2617",
+                        "endLines": "16,17,18,24,30,31,32,33,34,37,38,39",
+                        "endColumns": "12,70,82,12,12,119,131,119,62,12,62,131",
+                        "endOffsets": "974,1045,1128,1538,1960,2080,2212,2332,2395,2549,2612,2744"
+                    }
+                }
+            ]
+        }
+    ]
+}

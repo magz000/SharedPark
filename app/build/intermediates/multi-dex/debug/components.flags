@@ -1,0 +1,92 @@
+-injars 'C:\Users\SHERWIN\Desktop\Android Studio\SharedPark\app\libs\PayPalAndroidSDK-2.8.5.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\aboutlibraries-5.6.7.aar\eee99b6dd6ffee355278ffd4acd54936\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\core-0.8.6.1.aar\a09e79ebf5efa226d8a0f9be8fd9f7b4\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\facebook-android-sdk-4.28.0.aar\6d397ab9699f9cd678953502079321a2\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\facebook-login-4.28.0.aar\af0b1cce274808f4d3195050ee54b261\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\facebook-share-4.28.0.aar\aad1eae6b6e1f629e13271158c3aeed9\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\facebook-common-4.28.0.aar\657018367f29c2fe684438004183542f\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\cardview-v7-25.3.1.aar\641ef4d7d5eef096048bfe506df47818\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\design-24.0.0.aar\cd4a9ebae4dcb058f8164f089980a6f5\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\appintro-3.4.0.aar\f575c69b2c9627c364bfd2d6f01cd099\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\fastadapter-1.5.2.aar\3e13064a9bb52704a0bcaaacf22074c1\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\iconics-core-2.6.0.aar\8ae86e9b76b56335d0b30dd63a8afe8f\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\library-1.1.6.aar\600aa54f575d9ba2bd0c3b7780c6ad2c\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\appcompat-v7-25.3.1.aar\965928c3d62a22ddf6ede755a12022d9\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\recyclerview-v7-24.0.0.aar\cb5466ae9f7e0e735ea83e265a94534a\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\materialdatetimepicker-2.0.2.aar\dcad6cede8cf91fb07b8b06294a7d21b\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-location-9.4.0.aar\1563ea8534150ebdf72a47d8e2551282\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-places-9.4.0.aar\3a5d83d1a217fe3175afe7527b6c5636\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-maps-9.4.0.aar\d58ada358bf0d8dae9aa846dd37fe1fb\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-ads-9.4.0.aar\c2c890b752774fc8de4b503b9abd8de1\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-clearcut-9.4.0.aar\3ec8dd4165a23eb9f06a15103aa57c97\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-base-9.4.0.aar\398eeb64b575d51a1a57124d9f96dc9e\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-ads-lite-9.4.0.aar\73bd0bba8fc8f266bf411edefbcd5afb\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-gass-9.4.0.aar\e048c18dd22163988e8e683f6d0116a7\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-tasks-9.4.0.aar\b66a84798519467072108d611de06f11\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\play-services-basement-9.4.0.aar\48aab52e4409c9dc8addee7939cc44ee\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-v4-25.3.1.aar\b19ebccf60e4cfd2a0d85a33812363c7\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\volley-1.0.0.aar\b2feea12e605f6e34ebcf8a740c763fc\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\sugar-1.5.aar\7f389915ac028f66c7c1996d93c1b5b7\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\roundedimageview-2.2.1.aar\1618c32f179785cd6429d8f5862e9827\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\modules-2\files-2.1\com.github.bumptech.glide\glide\3.6.0\a7537446a030da8eb0da4c71424d16c2589f6c4a\glide-3.6.0.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\fab-1.6.4.aar\b1cd6de4945f866d4b8895612b5c7e8e\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\multidex-1.0.2.aar\ccd7bf545d708ae7a0d024885868ff85\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\facebook-places-4.28.0.aar\f06cfd8c871e687f703ab9326944f534\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\facebook-applinks-4.28.0.aar\8d53784f755e44ae0983c263987e9ef7\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\facebook-messenger-4.28.0.aar\f18f8e038a2c119c657d7c8ed8e75bbb\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\facebook-core-4.28.0.aar\048157e213a7348c97815622105e08e1\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-fragment-25.3.1.aar\b821c3ed1760f1777cc8c8f4e7632109\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-utils-25.3.1.aar\81253a3f267adbfc6a5186a7abafe3a9\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\customtabs-25.3.1.aar\f6ba52b5fcb9cc1f9b0e00892034edcc\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\animated-vector-drawable-25.3.1.aar\90071b2eb6b655fdfd59a8f5bc225814\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-vector-drawable-25.3.1.aar\671426f5e5b825eef7c3a1add007ea0c\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-media-compat-25.3.1.aar\1b5086e6d7d659d530f087f9ba417606\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-core-ui-25.3.1.aar\16e5aa17dd790f7823b360ab1f0ad05c\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\transforms-1\files-1.1\support-compat-25.3.1.aar\85379b87a1b14e73dc0441849ba86ec0\jars\classes.jar'(**.class)
+-injars 'C:\Users\SHERWIN\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\25.3.1\support-annotations-25.3.1.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-android\1.4.0\cc174c559b5177982887bf6e1b76003aebad9516\bolts-android-1.4.0.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\modules-2\files-2.1\com.google.zxing\core\3.3.0\73c49077166faa4c3c0059c5f583d1d7bd1475fe\core-3.3.0.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-applinks\1.4.0\8ad21bf21784dacce5f2043afb97218cc377e835\bolts-applinks-1.4.0.jar'(**.class)
+-injars 'C:\Users\SHERWIN\.gradle\caches\modules-2\files-2.1\com.parse.bolts\bolts-tasks\1.4.0\d85884acf6810a3bbbecb587f239005cbc846dc4\bolts-tasks-1.4.0.jar'(**.class)
+-injars 'C:\Users\SHERWIN\Desktop\Android Studio\SharedPark\app\build\intermediates\classes\debug'(**.class)
+-outjars 'C:\Users\SHERWIN\Desktop\Android Studio\SharedPark\app\build\intermediates\multi-dex\debug\componentClasses.jar'
+
+-libraryjars 'C:\Users\SHERWIN\AppData\Local\Android\Sdk\build-tools\26.0.2\lib\shrinkedAndroid.jar'
+
+-forceprocessing
+-dontoptimize
+-dontobfuscate
+-dontusemixedcaseclassnames
+-dontpreverify
+-dontnote **
+-dontwarn **
+-printconfiguration 'C:\Users\SHERWIN\Desktop\Android Studio\SharedPark\app\build\intermediates\multi-dex\debug\components.flags'
+
+
+# Referenced at C:\Users\SHERWIN\Desktop\Android Studio\SharedPark\app\build\intermediates\manifests\full\debug\AndroidManifest.xml:31
+-keep class com.sharepark.util.AppController {
+    <init>(...);
+}
+
+-keep public class * extends android.app.Instrumentation {
+    <init>();
+}
+
+-keep public class * extends android.app.Application {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
+
+-keep public class * extends android.app.backup.BackupAgent {
+    <init>();
+}
+
+-keep public class * extends java.lang.annotation.Annotation {
+    <fields>;
+    <methods>;
+}
+
+-keep class com.android.tools.ir.** {
+    <fields>;
+    <methods>;
+}

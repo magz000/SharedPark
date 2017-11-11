@@ -1,0 +1,72 @@
+{
+    "logs": [
+        {
+            "outputFile": "C:\\Users\\SHERWIN\\Desktop\\Android Studio\\SharedPark\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\965928c3d62a22ddf6ede755a12022d9\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.0.2.aar\\dcad6cede8cf91fb07b8b06294a7d21b\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "4,7,10,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "214,470,603,722",
+                        "endLines": "4,9,12,15",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "307,598,717,834"
+                    },
+                    "to": {
+                        "startLines": "3,4,7,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "121,219,352,471",
+                        "endLines": "3,6,9,12",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "214,347,466,583"
+                    }
+                }
+            ]
+        },
+        {
+            "outputFile": "D:\\Backup\\SharedPark\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-v16\\values-v16.xml",
+            "map": [
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\appcompat-v7-25.3.1.aar\\965928c3d62a22ddf6ede755a12022d9\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "65",
+                        "endOffsets": "116"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\SHERWIN\\.gradle\\caches\\transforms-1\\files-1.1\\materialdatetimepicker-2.0.2.aar\\dcad6cede8cf91fb07b8b06294a7d21b\\res\\values-v16\\values-v16.xml",
+                    "from": {
+                        "startLines": "4,7,10,13",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "214,470,603,722",
+                        "endLines": "4,9,12,15",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "307,598,717,834"
+                    },
+                    "to": {
+                        "startLines": "3,4,7,10",
+                        "startColumns": "4,4,4,4",
+                        "startOffsets": "121,219,352,471",
+                        "endLines": "3,6,9,12",
+                        "endColumns": "97,12,12,12",
+                        "endOffsets": "214,347,466,583"
+                    }
+                }
+            ]
+        }
+    ]
+}

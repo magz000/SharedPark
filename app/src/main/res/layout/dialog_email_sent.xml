@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:background="@color/white"
+    android:minWidth="300dp"
+    android:layout_height="wrap_content"
+    android:paddingBottom="20dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:background="@color/colorPrimary"
+        android:textSize="22sp"
+        android:padding="5dp"
+        android:text="Success!"
+        android:textStyle="bold"
+        android:textColor="#ffffff"
+        android:layout_marginBottom="10dp"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_margin="5dp"
+        android:text="@string/email_sent1"
+        android:textColor="@color/ColorGray"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textSize="16sp"
+        android:id="@+id/email"
+        android:text="markjansen17@gmail.com"
+        android:textColor="@color/colorPrimaryDark"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="14sp"
+        android:layout_margin="5dp"
+        android:text="@string/email_sent2"
+        android:textColor="@color/ColorGray"
+        android:gravity="center"
+        android:layout_gravity="center"/>
+    <Button
+        android:gravity="center"
+        android:layout_gravity="center"
+        android:layout_width="wrap_content"
+        android:minWidth="150dp"
+        android:id="@+id/dialog_okay"
+        android:text="OK"
+        android:textColor="@color/ColorWhite"
+        android:layout_marginTop="10dp"
+        android:textSize="18sp"
+        android:background="@drawable/rounded_button_green"
+        android:layout_height="wrap_content" />
+
+
+
+</LinearLayout>

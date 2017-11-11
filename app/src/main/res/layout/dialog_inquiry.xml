@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@color/white"
+    android:minWidth="300dp"
+    android:orientation="vertical"
+    android:paddingBottom="20dp">
+
+    <TextView
+        android:id="@+id/d_status"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_gravity="center"
+        android:background="@color/status_green"
+        android:gravity="center"
+        android:padding="5dp"
+        android:text="STATUS: APPROVED"
+        android:textColor="#ffffff"
+        android:textSize="22sp"
+        android:textStyle="bold" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="16dp"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/d_companyName"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:gravity="center"
+            android:text="TIP QC CARWASH"
+            android:textColor="@color/ColorGray"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/d_date"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:ellipsize="end"
+            android:fontFamily="sans-serif-light"
+            android:gravity="center"
+            android:maxEms="20"
+            android:maxLines="1"
+            android:text="timesss"
+            android:textColor="@color/LightGray"
+            android:textSize="12sp"
+            android:visibility="visible" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="1dp"
+            android:layout_margin="15dp"
+            android:background="#eeeeee"
+            android:gravity="center" />
+
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+            <RelativeLayout
+                android:id="@+id/message_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <com.makeramen.roundedimageview.RoundedImageView
+                    android:id="@+id/my_face"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:padding="5dp"
+                    android:scaleType="centerCrop"
+                    android:src="@drawable/default_profile_image"
+                    app:riv_corner_radius="30dip"
+                    app:riv_oval="true" />
+
+                <TextView
+                    android:id="@+id/d_yourmessage"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/my_face"
+                    android:layout_marginBottom="14dp"
+                    android:layout_toEndOf="@+id/my_face"
+                    android:layout_toRightOf="@+id/my_face"
+                    android:text="You"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/d_message"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignParentEnd="true"
+                    android:layout_alignParentRight="true"
+                    android:layout_below="@+id/d_yourmessage"
+                    android:layout_gravity="center"
+                    android:layout_toEndOf="@+id/my_face"
+                    android:layout_toRightOf="@+id/my_face"
+                    android:background="@drawable/message_shape"
+                    android:maxEms="250"
+                    android:maxLength="250"
+                    android:padding="8dp"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non felis tortor. Donec accumsan elit eu molestie eleifend. Praesent augue dolor, dictum at interdum eget, dapibus nec tellus. Morbi accumsan dolor nec nunc mattis tempor. Ut elementum nibh vel lorem vehicula, in egestas ante sagittis. Sed viverra lacus justo, ut dapibus nisl lacinia ac. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus lacinia neque nibh, nec egestas nisl faucibus eu. Praesent cursus nisl sit amet neque feugiat, vestibulum cursus massa rutrum. Aliquam in efficitur mauris, ac vehicula nulla. Duis vel placerat diam. Aenean sit amet ante at lectus suscipit molestie vel nec lorem. Fusce at enim in diam posuere volutpat et nec lorem. Donec maximus lectus sed felis scelerisque, sed pellentesque nisi ornare. Sed bibendum lacus nunc, non semper ipsum accumsan vel. Sed convallis posuere sagittis."
+                    android:textColor="@color/black"
+                    android:textSize="14sp" />
+            </RelativeLayout>
+
+            <LinearLayout
+                android:id="@+id/d_Linear"
+                android:layout_width="match_parent"
+                android:layout_height="1dp"
+                android:layout_below="@+id/d_message"
+                android:layout_margin="15dp"
+                android:background="#eeeeee"
+                android:gravity="center"
+                android:orientation="horizontal" />
+
+            <RelativeLayout
+                android:id="@+id/reply_layout"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content">
+
+                <com.makeramen.roundedimageview.RoundedImageView
+                    android:id="@+id/d_companyImage"
+                    android:layout_width="50dp"
+                    android:layout_height="50dp"
+                    android:padding="5dp"
+                    android:layout_alignParentRight="true"
+                    android:src="@drawable/sen" />
+
+                <TextView
+                    android:id="@+id/d_note"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_alignBottom="@+id/d_companyImage"
+                    android:layout_marginBottom="12dp"
+                    android:gravity="right"
+                    android:layout_toLeftOf="@id/d_companyImage"
+                    android:text="TIP QC"
+                    android:textColor="@color/colorPrimary"
+                    android:textSize="16sp" />
+
+                <TextView
+                    android:id="@+id/d_note_message"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_below="@id/d_companyImage"
+                    android:background="@drawable/message_shape"
+                    android:gravity="right"
+                    android:maxEms="250"
+                    android:maxLength="250"
+                    android:padding="8dp"
+                    android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Curabitur non felis tortor. Donec accumsan elit eu molestie eleifend. Praesent augue dolor, dictum at interdum eget, dapibus nec tellus. Morbi accumsan dolor nec nunc mattis tempor. Ut elementum nibh vel lorem vehicula, in egestas ante sagittis. Sed viverra lacus justo, ut dapibus nisl lacinia ac. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Vivamus lacinia neque nibh, nec egestas nisl faucibus eu. Praesent cursus nisl sit amet neque feugiat, vestibulum cursus massa rutrum. Aliquam in efficitur mauris, ac vehicula nulla. Duis vel placerat diam. Aenean sit amet ante at lectus suscipit molestie vel nec lorem. Fusce at enim in diam posuere volutpat et nec lorem. Donec maximus lectus sed felis scelerisque, sed pellentesque nisi ornare. Sed bibendum lacus nunc, non semper ipsum accumsan vel. Sed convallis posuere sagittis."
+                    android:textColor="@color/black"
+                    android:textSize="14sp" />
+            </RelativeLayout>
+        </LinearLayout>
+    </LinearLayout>
+
+
+</LinearLayout>

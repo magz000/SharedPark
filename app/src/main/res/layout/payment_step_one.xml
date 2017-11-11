@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.v4.widget.NestedScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    android:id="@+id/coordinatorLayout"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="20dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="Pay"
+                android:textColor="@color/colorPrimary"
+                android:textSize="18sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/paynote"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:paddingBottom="20dp"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:fontFamily="sans-serif-light"
+            android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit. Integer at finibus erat. In vel ex in purus faucibus maximus. Fusce scelerisque fringilla blandit. Quisque dictum consectetur sem, id congue ante gravida ac. Nunc et felis diam. Sed ac mattis arcu. Duis varius tellus mauris, et commodo risus maximus et. Curabitur molestie blandit lectus id elementum. Maecenas id purus nisi. Integer vitae convallis nulla, non condimentum eros."
+            android:textColor="@color/ColorGray"
+            android:textSize="14sp" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="20dp"
+            android:layout_marginRight="20dp"
+            android:weightSum="100">
+
+            <Button
+                android:id="@+id/instructions_button"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_marginRight="10dp"
+                android:layout_weight="50"
+                android:background="@drawable/rounded_button_stroke"
+                android:minHeight="0dp"
+                android:padding="10dp"
+                android:text="INSTRUCTIONS"
+                android:textColor="@color/colorPrimaryDark"
+                android:textSize="16sp" />
+
+            <Button
+                android:id="@+id/open_app"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="50"
+                android:background="@drawable/rounded_button_solid"
+                android:minHeight="0dp"
+                android:padding="10dp"
+                android:text="OPEN APP"
+                android:textSize="16sp" />
+
+        </LinearLayout>
+
+    </LinearLayout>
+</android.support.v4.widget.NestedScrollView>

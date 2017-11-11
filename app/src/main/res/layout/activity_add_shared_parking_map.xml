@@ -1,0 +1,161 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <android.support.v7.widget.Toolbar
+        android:id="@+id/toolBarAddSharedParking"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        app:title="Create Your Parking"
+        android:background="@color/colorPrimary"
+        android:visibility="visible"
+        android:layout_alignParentRight="true"
+        android:layout_alignParentEnd="true" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="250dp"
+        android:id="@+id/linearLayout4"
+        android:layout_below="@+id/toolBarAddSharedParking"
+        android:padding="10dp"
+        >
+
+        <fragment
+            xmlns:map="http://schemas.android.com/apk/res-auto"
+
+            android:id="@+id/map"
+            android:name="com.google.android.gms.maps.SupportMapFragment"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            tools:context="com.sharepark.activities.AddSharedParkingMap" />
+
+
+    </LinearLayout>
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/linearLayout4"
+        android:id="@+id/scrollView">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical">
+
+
+
+            <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:padding="10dp"
+                android:orientation="vertical">
+
+                <EditText
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:id="@+id/addressMap"
+                    android:editable="false"
+                    android:background="@drawable/custom_edittext_selector"
+                    android:textColor="@android:color/darker_gray"
+                    android:hint="Address" />
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:paddingTop="10dp"
+                    android:orientation="vertical">
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:text="Parking Details"
+                        android:textColor="@color/colorPrimaryDark"
+                        android:textSize="18sp"/>
+
+
+
+                    <EditText
+                        android:id="@+id/addSharedParkName"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/darker_gray"
+                        android:singleLine="true"
+                        android:layout_marginTop="10dp"
+                        android:textSize="18sp"
+                        android:fontFamily="sans-serif-light"
+                        android:background="@drawable/custom_edittext_selector"
+                        android:hint="Parking Name"/>
+
+
+                    <EditText
+                        android:id="@+id/addSharedSlot"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/darker_gray"
+                        android:background="@drawable/custom_edittext_selector"
+                        android:layout_marginTop="10dp"
+                        android:fontFamily="sans-serif-light"
+                        android:singleLine="true"
+                        android:hint="Number of Slots"
+                        android:inputType="number" />
+
+                    <EditText
+                        android:id="@+id/addSharedtimeStart"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/darker_gray"
+                        android:background="@drawable/custom_edittext_selector"
+                        android:layout_marginTop="10dp"
+                        android:fontFamily="sans-serif-light"
+                        android:singleLine="true"
+                        android:clickable="true"
+                        android:focusable="false"
+                        android:onClick="timeStart"
+                        android:hint="6:00 AM"/>
+
+                    <EditText
+                        android:id="@+id/addSharedtimeEnd"
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:textColor="@android:color/darker_gray"
+                        android:background="@drawable/custom_edittext_selector"
+                        android:layout_marginTop="10dp"
+                        android:fontFamily="sans-serif-light"
+                        android:singleLine="true"
+                        android:clickable="true"
+                        android:focusable="false"
+                        android:onClick="timeEnd"
+                        android:hint="Time End"/>
+                </LinearLayout>
+
+                <Button
+                    android:id="@+id/saveShared"
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:text="SAVE"
+                    android:textColor="#fff"
+                    android:textSize="18sp"
+                    android:layout_alignParentBottom="true"
+                    android:layout_gravity="center|bottom"
+                    android:layout_margin="10dp"
+                    android:background="@drawable/rounded_button_green"
+                    android:clickable="true"
+                    android:gravity="center"
+                    android:orientation="horizontal"/>
+
+
+            </LinearLayout>
+
+
+
+
+
+        </LinearLayout>
+    </ScrollView>
+
+
+</RelativeLayout>
